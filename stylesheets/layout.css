@@ -259,8 +259,8 @@
   font-size: 1.6em;
 }
 .actionBtn:hover {
-  background-color: #463494;
-  border-color: #463494;
+  background-color: #286dc0;
+  border-color: #286dc0;
 }
 .actionBtn {
   display: block;
@@ -448,7 +448,7 @@ a:hover,
 a:active,
 a:focus {
   text-decoration: none !important;
-  color: #463494;
+  color: #286dc0;
 }
 ul {
   margin: 0px;
